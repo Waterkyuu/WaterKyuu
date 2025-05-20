@@ -23,10 +23,3 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
-
-## 💻 Currently Working With
-
-- Building type-safe full-stack apps with **Next.js + Drizzle ORM**
-- Designing high-performance database architectures with **MySQL and Redis**
-- Developing distributed systems using **Go and Kafka**
-- Implementing edge computing solutions with **Cloudflare Workers**
