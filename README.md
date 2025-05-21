@@ -7,7 +7,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-764ABC?logo=zustand&logoColor=white)
 ![Biome](https://img.shields.io/badge/-Biome-1A1F2C?logo=biome&logoColor=white)
+
+**Testing:**  
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?logo=testinglibrary&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
