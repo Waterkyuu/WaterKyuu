@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kerwin Zheng!
 
-🚀 **Full-Stack Engineer** | ☁️ **Cloud Native Specialist** | 🛠️ **Database Enthusiast**
+🚀 **Full-Stack Engineer** 
 
 ## 🔧 Tech Stack
 **Frontend:**  
