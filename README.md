@@ -1,7 +1,3 @@
-# 👋 Hi there, I'm Kerwin Zheng!
-
-🚀 **Full-Stack Engineer** 
-
 ## 🔧 Tech Stack
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
