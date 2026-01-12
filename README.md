@@ -1,2 +1,1 @@
-
-![image](https://i.pinimg.com/1200x/32/c5/fb/32c5fbf527df118b7c9c9b6472bbf521.jpg)
+I don't have a technical stack because I don't consider myself an expert in those things; I just know how to use them. I still feel ignorant.
